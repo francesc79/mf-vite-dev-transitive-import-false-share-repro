@@ -1,0 +1,4 @@
+# @repro/media and @repro/lib are installed with file: so they land in node_modules like published packages.
+packages:
+  - packages/provider
+  - packages/consumer

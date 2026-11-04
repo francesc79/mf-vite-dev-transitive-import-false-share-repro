@@ -1,0 +1,17 @@
+{
+  "name": "@repro/provider",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@repro/hooks": "file:../hooks",
+    "@repro/lib": "file:../lib"
+  },
+  "devDependencies": {
+    "@module-federation/vite": "1.23.8",
+    "vite": "8.3.5"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@repro/lib",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "dependencies": {
+    "@repro/hooks": "file:../hooks"
+  }
+}
