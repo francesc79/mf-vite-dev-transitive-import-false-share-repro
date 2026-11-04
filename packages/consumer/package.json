@@ -12,7 +12,7 @@
     "@repro/provider": "workspace:*"
   },
   "devDependencies": {
-    "@module-federation/vite": "1.23.8",
+    "@module-federation/vite": "1.23.9",
     "vite": "8.3.5"
   }
 }

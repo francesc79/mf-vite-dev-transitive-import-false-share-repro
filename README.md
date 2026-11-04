@@ -1,7 +1,7 @@
 # `@module-federation/vite` dev: a shared subpath reached only through another shared package stays `undefined`
 
-Minimal **dev server** (`vite serve`) reproduction for `@module-federation/vite` 1.23.8 with Vite 8.3.5,
-also reproduced on `main` at `ae90d57` (1.23.9 + #1542). It contains no application-framework dependencies.
+Minimal **dev server** (`vite serve`) reproduction for `@module-federation/vite` 1.23.9 with Vite 8.3.5,
+also reproduced on 1.23.8 and on `main` at `ae90d57` (1.23.9 + #1542). It contains no application-framework dependencies.
 Issue draft: [`ISSUE.md`](ISSUE.md).
 
 Repository: [francesc79/mf-vite-dev-transitive-import-false-share-repro](https://github.com/francesc79/mf-vite-dev-transitive-import-false-share-repro)

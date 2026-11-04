@@ -61,7 +61,7 @@ runtime into `__mf_module_cache__.share` right after its `init()`, before `hostA
 
 ## Version
 
-- `@module-federation/vite` 1.23.8, and `main` at `ae90d57` (1.23.9 + #1542)
+- `@module-federation/vite` 1.23.9 (also 1.23.8, and `main` at `ae90d57`, 1.23.9 + #1542)
 - `vite` 8.3.5
 - Node 24.15.0, Chrome (headless)
 
